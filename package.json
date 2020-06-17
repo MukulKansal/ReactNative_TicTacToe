@@ -1,5 +1,5 @@
 {
-  "homepage": "http://MukulKansal.github.io/React-Native",
+  "homepage": "http://MukulKansal.github.io/ReactNative",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "predeploy":"npm run build",
